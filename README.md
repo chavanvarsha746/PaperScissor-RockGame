@@ -13,6 +13,7 @@ Responsive and clean UI
 Random computer choice logic
 
 🛠️ Technologies Used
+
 HTML
 
 CSS
